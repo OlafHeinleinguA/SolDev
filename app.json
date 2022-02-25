@@ -25,5 +25,7 @@
     "allowDownloadingSource": false,
     "includeSourceInSymbolFile": false
   },
-  "runtime": "8.0"
+  "runtime": "8.0",
+  "target": "OnPrem",
+  "suppressWarnings": ["PTE0001","PTE0002","PTE0005"]
 }
